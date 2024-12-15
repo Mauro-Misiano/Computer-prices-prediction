@@ -1,6 +1,6 @@
 # Computer-prices-prediction
 
-This project leverages Machine Learning techniques to predict computer prices based on their features. The model was developed using PyCaret, a library that automates common Machine Learning workflows, and is optimized to identify the most relevant features in the dataset.
+This project leverages Machine Learning techniques to predict computer prices based on their features. The model was developed using PyCaret, a library that automates common Machine Learning workflows, and is optimized to identify the most relevant features in the dataset.I completed this project for a university assignment.
 
 🚀 Project Objective
 
